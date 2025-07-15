@@ -76,7 +76,7 @@ Feel free to fork and extend the workflow for:
 ## 📩 Contact
 
 Created by **Muhammad Farhan**  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-profile) or email at `your-email@example.com`.
+Feel free to connect on [LinkedIn](www.linkedin.com/in/muhammad-farhan-55a05a251) or email at `Muhammadfarhan03333@gmail.com`.
 
 ---
 
