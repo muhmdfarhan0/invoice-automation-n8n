@@ -59,7 +59,8 @@ This repository contains an intelligent invoice processing system built with [n8
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your n8n workflow here, optional but great for visibility)*
+<img width="1739" height="439" alt="image" src="https://github.com/user-attachments/assets/d0ac08f5-4dce-4500-a622-db744fd20a6d" />
+
 
 ---
 
